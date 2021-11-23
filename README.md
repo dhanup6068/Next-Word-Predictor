@@ -1,0 +1,1 @@
+This is a Python-based deep learning project that leverages Convolutional Neural Networks and LTSM (a type of Recurrent Neural Network) to build a deep learning model that can generate captions for an image. 
